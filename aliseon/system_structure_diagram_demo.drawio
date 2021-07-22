@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T01:20:48.764Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="04MBcpiOJGI-aHcebPxv" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-22T01:22:59.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="9GhqQllpPVEYl_gF_5ST" version="14.9.0" type="github">
   <diagram id="JmtXC3KNYKc-si2XV-58" name="Page-1">
     <mxGraphModel dx="878" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,10 +26,10 @@
           <mxGeometry x="653.5" y="199.5" width="36.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="gwNynlul9ihLpbrJon8_-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-128.png" parent="1" vertex="1">
-          <mxGeometry x="690" y="336" width="48" height="48" as="geometry" />
+          <mxGeometry x="690" y="338" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gwNynlul9ihLpbrJon8_-19" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Managed_Databases.svg;" parent="1" vertex="1">
-          <mxGeometry x="648.25" y="336" width="47" height="50" as="geometry" />
+          <mxGeometry x="648.25" y="339.5" width="47" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gwNynlul9ihLpbrJon8_-20" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="477.5" y="343" width="36.5" height="43" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="206" y="226" width="66" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="gwNynlul9ihLpbrJon8_-26" value="[ Akamai ]&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;you can&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;receive&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;fast service from&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;cached&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;data on over the world, especially under 50M data&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="402" width="170" height="68" as="geometry" />
+          <mxGeometry x="180" y="395" width="170" height="68" as="geometry" />
         </mxCell>
         <mxCell id="Tq353sXl2KkIvjmvmrAU-4" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="gwNynlul9ihLpbrJon8_-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -136,7 +136,7 @@
             <mxPoint x="454" y="366" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tq353sXl2KkIvjmvmrAU-32" value="[ N-screen ] :&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;you can access from every&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;device&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;you want.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Tq353sXl2KkIvjmvmrAU-32" value="[ N-screen ]&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;you can access from every&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;device&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;you want.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="402" width="140" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Tq353sXl2KkIvjmvmrAU-33" value="[ Mongodb Atlas ]&lt;br&gt;&amp;nbsp;cloud storage which is managed, so can skip the installation and configurations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -151,7 +151,7 @@
         <mxCell id="Tq353sXl2KkIvjmvmrAU-36" value="[ Nginx ]&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;it can handle high volume&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;traffics&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;, can use load balancing, proxy, etc&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="463.5" y="20" width="160" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="Tq353sXl2KkIvjmvmrAU-37" value="&lt;span style=&quot;font-size: 22px&quot;&gt;ALISEON WEB DEMO&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Tq353sXl2KkIvjmvmrAU-37" value="&lt;span style=&quot;font-size: 22px&quot;&gt;ALISEON WEB DEMO&lt;br&gt;(system structure)&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="26.25" y="20" width="243.75" height="40" as="geometry" />
         </mxCell>
       </root>
